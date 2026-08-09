@@ -18,7 +18,6 @@ HTML, CSS, JavaScript를 기반으로 React를 학습했으며, PHP와 MySQL을 
 
 * PHP
 * MySQL
-* JSP
 
 ### Tools
 
@@ -29,39 +28,48 @@ HTML, CSS, JavaScript를 기반으로 React를 학습했으며, PHP와 MySQL을 
 
 ## 📂 Projects
 
-### 1. 🛒 Market Kurly
+### 1. 🛒 마켓컬리
 
 React, PHP, MySQL을 활용해 상품 탐색부터 회원가입, 로그인, 장바구니까지 쇼핑몰의 주요 기능을 구현한 개인 프로젝트입니다.
 
 * 기간: 2024.11 ~ 2025.01
+* 기술: React, HTML, CSS, JavaScript, PHP, MySQL
 * 주요 기능: 상품 필터, 페이지네이션, 장바구니, 최근 본 상품, 회원가입 및 로그인
 * [배포 사이트](http://j8926267.dothome.co.kr/marketkurly)
+* [GitHub 저장소](https://github.com/shhh128/marketkurly)
 
-### 2. 📱 Frisbee
+### 2. 📱 프리스비
 
-4인 팀으로 제작한 React 기반 쇼핑몰 프로젝트입니다. 팀 리드를 맡아 작업 분배와 코드 통합을 진행했으며, 메인 타임딜과 액세서리 영역, Apple 페이지, 회원가입 및 로그인을 담당했습니다.
+4인 팀으로 제작한 React 기반 쇼핑몰 프로젝트입니다. 팀을 리드하여 작업 분배와 코드 통합을 진행했으며, 메인 페이지 타임딜과 액세서리 카테고리 영역, 서브 페이지 Apple, 회원가입 및 로그인을 담당했습니다.
 
 * 기간: 2024.12 ~ 2025.02
-* 기술: React, JavaScript, PHP, MySQL
+* 기술: React, HTML, CSS, JavaScript, PHP, MySQL, Figma
+* 주요 기능: 상품 슬라이드, 메뉴 토글, 슬라이드 드래그앤드롭, 회원가입 및 로그인
 * 성과: 독립형 팀 프로젝트 우수상
 * [배포 사이트](http://j8926267.dothome.co.kr/frisbee)
+* [GitHub 저장소](https://github.com/shhh128/frisbee)
 
 ### 3. 👔 Hongo
 
 JavaScript와 jQuery를 활용해 반응형 화면과 스크롤 인터랙션을 구현한 개인 프로젝트입니다.
 
 * 기간: 2025.01
+* 기술: HTML, CSS, JavaScript, jQuery
 * 주요 기능: 자동 슬라이드, 퀵메뉴, 스크롤 애니메이션, 반응형 UI
 * [배포 사이트](http://j8926267.dothome.co.kr/Hongo)
+* [GitHub 저장소](https://github.com/shhh128/Hongo)
 
-### 4. ☑️ Todo List
+### 4. ☑️ 투두리스트
 
-React와 PHP, MySQL을 연동해 할 일의 추가, 조회, 수정, 삭제 기능을 구현한 개인 프로젝트입니다.
+React와 PHP, MySQL을 연동해 할 일 추가, 조회, 수정, 삭제 기능을 구현한 개인 프로젝트입니다.
 
+* 기간: 2024.11
+* 기술: React, HTML, CSS, JavaScript, PHP, MySQL
 * 주요 기능: CRUD, 마감 기한 설정, 완료 상태 관리
 * [배포 사이트](http://j8926267.dothome.co.kr/to_do_list)
+* [GitHub 저장소](https://github.com/shhh128/todo-list)
 
-### 5. 👕 Musinsa
+### 5. 👕 무신사
 
 아이웹 플랫폼을 활용해 상품 정보 구성부터 장바구니와 결제 과정까지 구현한 4인 팀 프로젝트입니다.
 
