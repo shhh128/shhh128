@@ -11,6 +11,7 @@ HTML, CSS, JavaScript를 기반으로 React를 학습했으며, PHP와 MySQL을 
 * HTML5
 * CSS3 / SCSS
 * JavaScript
+* TypeScript
 * React
 * jQuery
 
@@ -18,6 +19,7 @@ HTML, CSS, JavaScript를 기반으로 React를 학습했으며, PHP와 MySQL을 
 
 * PHP
 * MySQL
+* Supabase
 
 ### Tools
 
