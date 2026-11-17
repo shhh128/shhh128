@@ -37,7 +37,7 @@ React, TypeScript, Supabase를 활용해 콘텐츠 조회·검색·등록·삭�
 * 기간: 2026.07 ~ 진행 중
 * 기술: React, TypeScript, HTML, SCSS, Supabase, Chart.js
 * 주요 기능: 로그인 및 접근 제한, 콘텐츠 검색·필터·정렬, 페이지네이션, 콘텐츠 등록·삭제, 이미지 업로드
-* 배포 예정
+* [배포 사이트](http://ott-admin-web.vercel.app)
 * [GitHub 저장소](https://github.com/shhh128/ott-admin)
 
 ### 2. 🛒 마켓컬리
